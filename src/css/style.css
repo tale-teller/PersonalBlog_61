@@ -150,3 +150,4 @@ footer {
 }/* 功能分支的样式改进 */ 
 .feature-card { transition: transform 0.3s; } 
 .feature-card:hover { transform: translateY(-5px); } 
+/* develop分支的样式修改 */ 
