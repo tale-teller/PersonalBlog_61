@@ -147,4 +147,6 @@ footer {
     padding: 2rem;
     margin-top: 3rem;
     border-top: 1px solid #ddd;
-}
+}/* 功能分支的样式改进 */ 
+.feature-card { transition: transform 0.3s; } 
+.feature-card:hover { transform: translateY(-5px); } 
